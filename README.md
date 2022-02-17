@@ -3,4 +3,7 @@ Trabajos prácticos y notas de la materia Algoritmos y programacion 2, cátedra 
 
 Material Extra que utilice durante la cursada:
 
-Visualizadores:
+Visualizadores: AGREGAR LISTA DE SIMULADORES DE ARBOLES Y SORTS GUARDADA.
+
+Resumen tipo flash Cards: https://quizlet.com/_b274fc?x=1jqt&i=49iw9s 
+Resumen de la materia: LINK AL RESUMEN.
