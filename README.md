@@ -17,5 +17,5 @@ Otros links utiles para la materia: </br>
 	- [Material sobre punteros](https://computer.howstuffworks.com/c30.htm) </br>
 	- [Libro sobre algoritmos vistos durante la cursada en ingles ~ Aditya Bhargava](https://drive.google.com/file/d/1VjFk2HHHmXkxj4s4HM4Jd_yR9LPUM1aP/view?usp=sharing) </br>
 
-Resumen tipo flash Cards: https://quizlet.com/_b274fc?x=1jqt&i=49iw9s 
-Resumen de la materia: LINK AL RESUMEN.
+Resumen tipo flash Cards: https://quizlet.com/_b274fc?x=1jqt&i=49iw9s  </br>
+Resumen de la materia: LINK AL RESUMEN. </br> 
