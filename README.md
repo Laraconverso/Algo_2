@@ -4,14 +4,14 @@ Trabajos prácticos y notas de la materia Algoritmos y programacion 2, cátedra 
 
 Material extra que me fue util durante la cursada:
 
-Visualizadores: 
+Visualizadores:  </br>
 	- [Arbol Rojo y Negro](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html) </br>
 	- [AVL](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html) </br>
 	- [ABB](http://btv.melezinek.cz/binary-search-tree.html) </br>
 	- [Arboles B](https://www.cs.usfca.edu/~galles/visualization/BTree.html) </br>
 	- [Algoritmo Dijkstra](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html) </br>
  
-Otros links utiles para la materia:
+Otros links utiles para la materia: </br>
 	- [Fundamentos de C](https://www.learn-c.org/) </br>
 	- [Resumen escrito por mpata](https://gitlab.com/mpata2000/algo2-resumen) </br>
 	- [Material sobre punteros](https://computer.howstuffworks.com/c30.htm) </br>
