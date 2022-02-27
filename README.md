@@ -18,4 +18,4 @@ Otros links utiles para la materia: </br>
 	- [Libro sobre algoritmos vistos durante la cursada en ingles ~ Aditya Bhargava](https://drive.google.com/file/d/1VjFk2HHHmXkxj4s4HM4Jd_yR9LPUM1aP/view?usp=sharing) </br>
 
 Resumen tipo flash Cards: https://quizlet.com/_b274fc?x=1jqt&i=49iw9s  </br>
-Resumen de la materia: LINK AL RESUMEN. </br> 
+Resumen de la materia: _[LINK AL RESUMEN](https://fiubaar-my.sharepoint.com/:w:/g/personal/lconverso_fi_uba_ar/EZJ5MjcOfzBKp89e6pczXzMBhnWf0WeFnusbDAzHZDcIRg?rtime=WTU5Kkv62Ug)_ </br> 
